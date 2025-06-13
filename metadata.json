@@ -1,0 +1,6 @@
+{
+  "name": "Mock Technical Interviewer AI",
+  "description": "A chatbot application that conducts mock technical interviews (coding, system design) and provides feedback on technical skills, communication, and bias-free hiring practices using Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
